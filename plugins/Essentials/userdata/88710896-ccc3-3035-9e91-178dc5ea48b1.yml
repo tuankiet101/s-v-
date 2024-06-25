@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719113797563
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719114016352
+  login: 1719113778449
+money: '0'
+last-account-name: METROxMOI
+logoutlocation:
+  world: 8b417b12-ca3f-475e-b593-5e5f88e03724
+  world-name: world_nether
+  x: 629.6092379822886
+  y: 60.96636804164124
+  z: 273.5302559838781
+  yaw: 91.7401123046875
+  pitch: 13.79990291595459
+lastlocation:
+  world: b7d33a26-bf67-4a3b-a01e-458a4529fe54
+  world-name: world
+  x: -6.050208433618961
+  y: 71.0
+  z: 107.52266289895047
+  yaw: -130.20004272460938
+  pitch: 37.499942779541016

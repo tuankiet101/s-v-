@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719247317090
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719247353178
+  login: 1719246657012
+money: '0.0'
+last-account-name: USSRxSTALIN
+logoutlocation:
+  world: b7d33a26-bf67-4a3b-a01e-458a4529fe54
+  world-name: world
+  x: -1235.1876632484257
+  y: 111.0
+  z: 1850.386386968806
+  yaw: 62.70033264160156
+  pitch: 52.94994354248047
+lastlocation:
+  world: b7d33a26-bf67-4a3b-a01e-458a4529fe54
+  world-name: world
+  x: -329.92361272148617
+  y: 90.0
+  z: 581.9367613541547
+  yaw: -164.534912109375
+  pitch: 42.29997634887695
