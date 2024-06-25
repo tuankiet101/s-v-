@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "hologramHeight": 0.0,
+    "skin": "",
+    "signature": "",
+    "skinName": "Steve",
+    "location": {
+      "world": "world",
+      "x": -1231.5,
+      "y": 111.0,
+      "z": 1844.5,
+      "yaw": 93.1499,
+      "pitch": 29.24999
+    },
+    "npcType": "ALLAY",
+    "hologramLines": [
+      "BuuHiHi_"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true
+    },
+    "customizationMap": {}
+  }
+]

@@ -137,6 +137,8 @@ world-settings:
     view-distance: default
     simulation-distance: default
     verbose: false
+  worldeditregentempworld:
+    verbose: false
 settings:
   save-user-cache-on-stop-only: false
   sample-count: 12
