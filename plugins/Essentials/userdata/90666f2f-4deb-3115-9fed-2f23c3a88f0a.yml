@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719246258172
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719247348916
+  login: 1719242731362
+money: '100.0'
+last-account-name: MKGamez
+logoutlocation:
+  world: b7d33a26-bf67-4a3b-a01e-458a4529fe54
+  world-name: world
+  x: -1232.7371545913618
+  y: 111.0
+  z: 1849.587605348531
+  yaw: 15.750508308410645
+  pitch: 32.69996643066406
+lastlocation:
+  world: b7d33a26-bf67-4a3b-a01e-458a4529fe54
+  world-name: world
+  x: -1229.9670930715688
+  y: 111.0
+  z: 1851.7327865472857
+  yaw: -176.8489990234375
+  pitch: 32.40009307861328
