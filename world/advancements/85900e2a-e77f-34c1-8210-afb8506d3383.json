@@ -3329,7 +3329,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-06-24 16:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-06-24 16:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-06-24 16:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-06-24 16:24:05 +0000"
     },
@@ -3341,27 +3359,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-06-24 16:24:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2024-06-24 16:30:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_basalt": "2024-06-24 16:24:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2024-06-24 16:22:13 +0000"
+      "lava_bucket": "2024-06-25 02:59:09 +0000"
     },
     "done": true
   },

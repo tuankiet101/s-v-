@@ -1,0 +1,55 @@
+# PerWorldPlugins Configuration
+
+# Disable or Enable the message of new updates.
+updateChecker: true
+# Disable or Enable the bStats metrics.
+metrics: true
+# Message send when execute blocked plugin command.
+disabledCommandMessage: '&4[Server]: &f{player} this command is disabled for {world}.'
+
+# If false, the plugins/groups added in the world will work.
+# If true, it will be reversed.
+blacklist: true
+
+plugins:
+  # For set group set - g:example (example is the name of group)
+  # Add and edit groups in the groups.yml
+  Example:
+  - PutWorldInThisListForDisableThisPluginOnWorld
+  - world
+  Example2:
+  - 'ignore:'
+  LuckPerms:
+  - Example
+  Vault:
+  - Example
+  WorldEdit:
+  - Example
+  SkinsRestorer:
+  - Example
+  ViaVersion:
+  - Example
+  PlaceholderAPI:
+  - Example
+  WorldGuard:
+  - Example
+  ViaBackwards:
+  - Example
+  Essentials:
+  - Example
+  spark:
+  - Example
+  AuraSkills:
+  - Example
+  playit-gg:
+  - Example
+  VeinMiner:
+  - Example
+  Minepacks:
+  - Example
+  EssentialsChat:
+  - Example
+  ServersNPC:
+  - Example
+  GSit:
+  - Example
